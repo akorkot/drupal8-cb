@@ -1,0 +1,11 @@
+name: features_content_types
+type: module
+core: 8.x
+dependencies:
+  - comment
+  - field
+  - node
+  - path
+  - rdf
+  - text
+  - user
